@@ -36,5 +36,5 @@ vagrant halt
 
 7. Remove the Virtual Machine
 ``` shell
-vagrant ssh
+vagrant destroy
 ```
